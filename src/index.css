@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+.main{ font-family: 'Pattaya', sans-serif;
+}
+.demo{
+    display:flex;
+    align-items:center ;
+    padding:12px;
+  
+  
+   
+
+}
+.user
+{
+    margin-left:15px;
+}
+.keshav{
+    max-width: 500px;
+    margin-top: 12px;
+margin-bottom: 120px;
+border:1px solid lightgrey
+    
+    
+    
+    
+}
+.image{
+    width:100%;
+    object-fit: contain;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+.form
+{
+    display:flex;
+    flex-direction: column;
+}
+.Upload{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-top: solid lightgrey;
+   }
